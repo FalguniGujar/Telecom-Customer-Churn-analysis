@@ -33,9 +33,6 @@ Visualization of major churn reasons
 **🔍 Key Insights**:
 High churn observed among customers with month-to-month contracts
 Certain service categories show higher churn rates
-
 Customers with shorter tenure are more likely to churn
-
 Payment methods and service combinations influence churn behavior
-
 These insights can help businesses design targeted retention strategies.

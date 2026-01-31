@@ -1,7 +1,7 @@
 # Telecom Customer Churn Analysis Dashboard
 ---
 
-Tools Used: SQL Server, Power BI
+**Tools Used: SQL Server, Power BI**
 
 **📌 Project Overview**
 This project focuses on analyzing customer churn behavior using SQL Server for data cleaning and preprocessing, and Power BI for interactive dashboard visualization. The goal is to identify key factors contributing to customer churn and generate actionable insights to support customer retention strategies.
